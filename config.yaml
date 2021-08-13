@@ -1,0 +1,12 @@
+bot_prefix: '!'
+token: 'NjY0OTY5NTAzNjYyMTQ1NTc5.XhezNg.0UnVTJilTdONqlhoTUuDaee0Yms'
+client_id: 206881400333402112
+owners:
+  - 206881400333402112
+blacklist:
+  - 664969503662145579
+main_color: 0xD75BF4
+error: 0xE02B2B
+success: 0x42F56C
+warning: 0xF59E42
+info: 0x4299F5
