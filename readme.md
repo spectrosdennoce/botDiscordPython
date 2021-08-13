@@ -1,20 +1,5 @@
 #Bot discord Projet Python
 
-
-| Grosset Killian              |M2I                                                      |11/06/2021|
-| ----------------------| ----------------------------------------------------------------------|-|
-
-
-##Comment lancer le bot
-
-Avant toutes chose il faut rejoindre le serveur discord ou le bot est membre
-
-voici le liens pour rejoindre le discord
-
-https://discord.gg/QEjerutRq6
-
-Pour commencer il faut ce rendre dans votre console
-
 Installer le requirements.txt :
 
 ```
